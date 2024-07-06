@@ -4,3 +4,6 @@ I just added an h1 header and then add this short sentence. I'm using markdown f
 ``` python
 myVar = ("Hello, world!");
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
